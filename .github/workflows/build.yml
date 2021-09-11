@@ -8,14 +8,15 @@ jobs:
       - name: Check out Git repository
         uses: actions/checkout@v2
         with:
-          path: master
+          repository: HavenCoreNetwork/Nebula
+          path: .
           token: ${{ secrets.TOKEN }}
 
       - name: Checkout modpacks repo
         uses: actions/checkout@v2
         with:
           repository: HavenCoreNetwork/HavenCoreModpacks
-          path: master
+          path: .
       
       - name: print dirs
         run: ls
