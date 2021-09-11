@@ -1,0 +1,127 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "dbz:fusions.png",
+            "posX" : -137,
+            "posY" : 10,
+            "width" : 270,
+            "height" : 100,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "\u00A7eOfficial Server",
+            "tooltip" : "Come join and play with us on the server! :D",
+            "posX" : -100,
+            "posY" : 48,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "51.161.76.173:25650"
+            }
+        },
+        
+        "Discord":
+        {
+            "text" : "\u00A79Discord",
+            "tooltip" : "Come talk with us!",
+            "posX" : -100,
+            "posY" : 72,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+				"type" : "openLink",
+				"link" : "https://discord.gg/MK7YPMW"
+            }
+        },
+        
+        "web":
+        {
+            "text" : "\u00A7bWebsite",
+            "tooltip" : "Wanna support us ? ;)",
+            "posX" : -100,
+            "posY" : 96,
+            "width" : 200,
+            "height" : 20,
+            "action" : 
+            {
+				"type" : "openLink",
+				"link" : "https://www.havencorenetwork.com/"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "\u00A77Settings",
+            "tooltip" : "Fix your controls :3",
+            "posX" : -100,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "Leave":
+        {
+            "text" : "\u00A7cQuit",
+            "tooltip" : "Come back very soon! :(",
+            "posX" : 2,
+            "posY" : 132,
+            "width" : 98,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+  	  }
+        },
+        
+
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+	   }
+        },
+        
+
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "texts" : ""
+        },
+        
+        "background":
+        {
+            "image" : "dbz:bg2.jpg",
+            "animate" : false,
+            "blur" : false,
+            "gradient" : true
+        }
+    }
+}
