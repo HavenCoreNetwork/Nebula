@@ -31,6 +31,6 @@ jobs:
           commit_message: Automated Change
           branch: master
           commit_options: '--no-verify --signoff'
-          commit_author: Author <actions@github.com>
+          commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           status_options: '--untracked-files=no'
           skip_dirty_check: true
