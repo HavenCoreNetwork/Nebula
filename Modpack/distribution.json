@@ -924,16 +924,6 @@
           }
         },
         {
-          "id": "generated.forgemod:armourersWorkshop:1.7.10-0.48.3@jar",
-          "name": "Armourer's Workshop",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1980121,
-            "url": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/DBC%20Future-1.7.10/forgemods/required/Armourers-Workshop-1.7.10-0.48.3.jar",
-            "MD5": "10f1ef3127c86a922a3b29e96d77ebd5"
-          }
-        },
-        {
           "id": "generated.forgemod:BiblioCraft:1.11.7@jar",
           "name": "BiblioCraft",
           "type": "ForgeMod",
@@ -1367,6 +1357,17 @@
             "url": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/DBC%20Future-1.7.10/files/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar",
             "MD5": "07fd1a4d8337cca200d871e25426705d",
             "path": "mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar"
+          }
+        },
+        {
+          "id": "Armourers-Workshop-1.7.10-0.48.3.jar",
+          "name": "Armourers-Workshop-1.7.10-0.48.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1980121,
+            "url": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/DBC%20Future-1.7.10/files/mods/Armourers-Workshop-1.7.10-0.48.3.jar",
+            "MD5": "10f1ef3127c86a922a3b29e96d77ebd5",
+            "path": "mods/Armourers-Workshop-1.7.10-0.48.3.jar"
           }
         },
         {
