@@ -6610,9 +6610,9 @@
           "name": "ar_SA.lang",
           "type": "File",
           "artifact": {
-            "size": 22208,
+            "size": 22846,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/ar_SA.lang",
-            "MD5": "4ff2e0344564485d89e60b5e11c624d0",
+            "MD5": "edb30bdb5fb4f1243f81e5fd55546022",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/ar_SA.lang"
           }
         },
@@ -6621,9 +6621,9 @@
           "name": "da_DK.lang",
           "type": "File",
           "artifact": {
-            "size": 2503,
+            "size": 3613,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/da_DK.lang",
-            "MD5": "ae6c35733ae004be750917a188ed53df",
+            "MD5": "7b728c944e2684a2ee2b40db7b5295d5",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/da_DK.lang"
           }
         },
@@ -6632,9 +6632,9 @@
           "name": "de_DE.lang",
           "type": "File",
           "artifact": {
-            "size": 22695,
+            "size": 23274,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/de_DE.lang",
-            "MD5": "8ef0fde5615e7f4bff34a00a05df356f",
+            "MD5": "6cf1da1ca45dc1ca6f435d4bceaf5a60",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/de_DE.lang"
           }
         },
@@ -6643,9 +6643,9 @@
           "name": "el_GR.lang",
           "type": "File",
           "artifact": {
-            "size": 26811,
+            "size": 27753,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/el_GR.lang",
-            "MD5": "2f1acd90e36e0d0645f720548391835c",
+            "MD5": "01a0310415906eccc3b23fe077e1647d",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/el_GR.lang"
           }
         },
@@ -6654,9 +6654,9 @@
           "name": "en_US.lang",
           "type": "File",
           "artifact": {
-            "size": 78315,
+            "size": 79862,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/en_US.lang",
-            "MD5": "0ff02b995a193857a9b731e82c7beaa1",
+            "MD5": "4c230dd5340893d9ef94c0b6a366a9aa",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/en_US.lang"
           }
         },
@@ -6665,9 +6665,9 @@
           "name": "en_US.lang.bak",
           "type": "File",
           "artifact": {
-            "size": 53057,
+            "size": 54166,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/en_US.lang.bak",
-            "MD5": "49c2d1443870ce5e7a6c011b18728b7c",
+            "MD5": "078ebe21ec503649a80a186d73a4a134",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/en_US.lang.bak"
           }
         },
@@ -6676,9 +6676,9 @@
           "name": "es_ES.lang",
           "type": "File",
           "artifact": {
-            "size": 47387,
+            "size": 48353,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/es_ES.lang",
-            "MD5": "34b3ebf3e05515ba1de7f3f152ab7897",
+            "MD5": "34e0e1a8f98f43957160985645ec5086",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/es_ES.lang"
           }
         },
@@ -6698,9 +6698,9 @@
           "name": "he_IL.lang",
           "type": "File",
           "artifact": {
-            "size": 17036,
+            "size": 17674,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/he_IL.lang",
-            "MD5": "d01bb958f5db3286b6f0e8a13775a449",
+            "MD5": "3126bdbd5b3334dddba1a3f69f67ee76",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/he_IL.lang"
           }
         },
@@ -6709,9 +6709,9 @@
           "name": "hu_HU.lang",
           "type": "File",
           "artifact": {
-            "size": 14229,
+            "size": 15059,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/hu_HU.lang",
-            "MD5": "f6d21f3fe13c2515e5ef07b17ee1d55d",
+            "MD5": "21377b15d500c18776ab18f5de0d7aaa",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/hu_HU.lang"
           }
         },
@@ -6720,9 +6720,9 @@
           "name": "it_IT.lang",
           "type": "File",
           "artifact": {
-            "size": 3614,
+            "size": 4717,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/it_IT.lang",
-            "MD5": "3df697578e680002795808479f9a8b69",
+            "MD5": "dac64ee979957635fd32616b3456730f",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/it_IT.lang"
           }
         },
@@ -6731,9 +6731,9 @@
           "name": "pl_PL.lang",
           "type": "File",
           "artifact": {
-            "size": 36356,
+            "size": 37098,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/pl_PL.lang",
-            "MD5": "60ca2a9950f3cb59885bcbd2a61ecfed",
+            "MD5": "ace7a6c74f462ed05b21680926490609",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/pl_PL.lang"
           }
         },
@@ -6742,9 +6742,9 @@
           "name": "pt_PT.lang",
           "type": "File",
           "artifact": {
-            "size": 31599,
+            "size": 32234,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/pt_PT.lang",
-            "MD5": "8c41d38996c6d3232adf9e8c95e48e79",
+            "MD5": "efdc7527ddf4e0f124a7ccfe4ae29c0b",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/pt_PT.lang"
           }
         },
@@ -6753,9 +6753,9 @@
           "name": "zh_CN.lang",
           "type": "File",
           "artifact": {
-            "size": 44870,
+            "size": 45830,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/lang/zh_CN.lang",
-            "MD5": "77886695e84ac3320b3e2051449b19e1",
+            "MD5": "0c84e302e95618762d12bbaca7926e4c",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/lang/zh_CN.lang"
           }
         },
@@ -11692,9 +11692,9 @@
           "name": "item.ItemDragonBlock.png.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 21,
+            "size": 23,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/textures/items/item.ItemDragonBlock.png.mcmeta",
-            "MD5": "dcd657fb48e0b358ade4c30bf6804f09",
+            "MD5": "593b64e0db05feb56bf74272b5a3d6f6",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/textures/items/item.ItemDragonBlock.png.mcmeta"
           }
         },
@@ -11780,9 +11780,9 @@
           "name": "item.ItemNamekDragonBlock.png.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 21,
+            "size": 23,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuudragonbc/textures/items/item.ItemNamekDragonBlock.png.mcmeta",
-            "MD5": "dcd657fb48e0b358ade4c30bf6804f09",
+            "MD5": "593b64e0db05feb56bf74272b5a3d6f6",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuudragonbc/textures/items/item.ItemNamekDragonBlock.png.mcmeta"
           }
         },
@@ -15971,9 +15971,9 @@
           "name": "en_US.lang",
           "type": "File",
           "artifact": {
-            "size": 51587,
+            "size": 52622,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/en_US.lang",
-            "MD5": "379a6343ed04c5dcc57ca787a522cb22",
+            "MD5": "40c89967e37c39492aa5bfb86bd2ae18",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/en_US.lang"
           }
         },
@@ -15982,9 +15982,9 @@
           "name": "en_US.lang.bak",
           "type": "File",
           "artifact": {
-            "size": 20890,
+            "size": 21409,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/en_US.lang.bak",
-            "MD5": "b87829e8fd1acea5fe900a34199caf5b",
+            "MD5": "181bfd7c816f26c168fa946bd5bf3bf2",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/en_US.lang.bak"
           }
         },
@@ -15993,9 +15993,9 @@
           "name": "es_ES.lang",
           "type": "File",
           "artifact": {
-            "size": 17145,
+            "size": 17565,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/es_ES.lang",
-            "MD5": "91a2bcba8fec53226fb4841c04ab277f",
+            "MD5": "d62ce1ea95540f3d7b205a17c961eb41",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/es_ES.lang"
           }
         },
@@ -16004,9 +16004,9 @@
           "name": "fr_FR.lang",
           "type": "File",
           "artifact": {
-            "size": 16157,
+            "size": 16677,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/fr_FR.lang",
-            "MD5": "cbcfe647abcfb45bf2c65559385931ae",
+            "MD5": "545dc7ac6aed5b14ef115330dbcab5bd",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/fr_FR.lang"
           }
         },
@@ -16015,9 +16015,9 @@
           "name": "hu_HU.lang",
           "type": "File",
           "artifact": {
-            "size": 457,
+            "size": 877,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/hu_HU.lang",
-            "MD5": "eadb9820a35f2b56493875e26be31b0a",
+            "MD5": "8aecbf82754e6f55907bdc3d3cf9429d",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/hu_HU.lang"
           }
         },
@@ -16026,9 +16026,9 @@
           "name": "pt_PT.lang",
           "type": "File",
           "artifact": {
-            "size": 8331,
+            "size": 8563,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/pt_PT.lang",
-            "MD5": "8aeaa4e03f1fa97bfeee1d29b12589f6",
+            "MD5": "c0fe236f91f67c428f42482ebe731b70",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/pt_PT.lang"
           }
         },
@@ -16037,9 +16037,9 @@
           "name": "zh_CN.lang",
           "type": "File",
           "artifact": {
-            "size": 18831,
+            "size": 19329,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/jinryuumodscore/lang/zh_CN.lang",
-            "MD5": "184b1b9ec827e245abd985b352de663b",
+            "MD5": "6d4958831d0c4dfb8c7971adbc27c423",
             "path": "resourcepacks/DBC Future Texture Pack/assets/jinryuumodscore/lang/zh_CN.lang"
           }
         },
@@ -17808,9 +17808,9 @@
           "name": "en_US.xml",
           "type": "File",
           "artifact": {
-            "size": 33377,
+            "size": 33908,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/assets/minecraft/lang/en_US.xml",
-            "MD5": "57905bb63bed49bca78506e2bb0b9cc7",
+            "MD5": "7566bbb467b0724b21c4a40ee395dad8",
             "path": "resourcepacks/DBC Future Texture Pack/assets/minecraft/lang/en_US.xml"
           }
         },
@@ -22351,9 +22351,9 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 122,
+            "size": 127,
             "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/Modpack/master/servers/DBC%20Future-1.7.10/files/resourcepacks/DBC%20Future%20Texture%20Pack/pack.mcmeta",
-            "MD5": "d7963d445694304df9520b60207fcf43",
+            "MD5": "cd2a40126557de461bc5d7d5c7aa2ed5",
             "path": "resourcepacks/DBC Future Texture Pack/pack.mcmeta"
           }
         },
