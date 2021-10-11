@@ -3,7 +3,7 @@
   "meta": {
     "version": "1.0.0",
     "name": "DBC Future (1.7.10)",
-    "description": "DBC Future | Official HavenCore Network Server Partner",
+    "description": "DBC Future | Official HavenCore Network Server Partner"
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
