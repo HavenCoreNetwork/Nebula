@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/user/Documents/GitHub/HeliosFiles/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Dragon Block C Alpha Reborn (1.7.10)",
-    "description": "DBC Alpha Reborn | HavenCore Network Official Server",
+    "name": "DBC Alpha Reborn (1.7.10)",
+    "description": "DBC Alpha Reborn | Official HavenCore Network Server",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

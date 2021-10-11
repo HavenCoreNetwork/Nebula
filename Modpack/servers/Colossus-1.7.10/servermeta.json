@@ -2,8 +2,8 @@
   "$schema": "file:///C:/Users/user/Documents/GitHub/HeliosFiles/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Colossus-1.7.10",
-    "description": "DBC Colossus | HavenCore Network Official Server",
+    "name": "DBC Colossus (1.7.10)",
+    "description": "DBC Colossus | Official HavenCore Network Server",
     "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",

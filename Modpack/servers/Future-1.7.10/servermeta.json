@@ -1,10 +1,10 @@
 {
-  "$schema": "file:///C:/Users/user/Documents/GitHub/HeliosFiles/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///C:/Users/user-pc/Documents/GitHub/Nebula/Modpack/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "DBC Fusions (1.7.10)",
-    "description": "DBC Fusions | Official HavenCore Network Server",
-    "address": "51.161.76.173:25650",
+    "name": "DBC Future (1.7.10)",
+    "description": "DBC Future | Official HavenCore Network Server Partner",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
