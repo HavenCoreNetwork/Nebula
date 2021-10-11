@@ -1,0 +1,119 @@
+{
+    "images": {
+        "title": {
+            "image" : "dbz:logo.png",
+            "posX" : -5,
+            "posY" : 5,
+            "width" : 220,
+            "height" : 100,
+            "alignment" : ""
+      }
+    },
+    
+    "buttons":
+    {
+        
+        "servers":
+        {
+            "text" : "Official Server",
+            "posX" : -230,
+            "posY" : 35,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "144.217.35.37:25587"
+            }
+        },
+        
+        "discord":
+        {
+            "text" : "Discord",
+            "posX" : -230,
+            "posY" : 65,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+				"type" : "openLink",
+				"link" : "https://discord.gg/9FvTXP686e"
+            }
+        },         
+		
+		
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : -230,
+            "posY" : 95,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+		
+
+	"options":
+        {
+            "text" : "Options",
+            "posX" : -230,
+            "posY" : 125,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : -230,
+            "posY" : 155,
+            "width" : 120,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        }	
+    },
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Welcome To DBC Future ModPack",
+            "posX" : 370,
+            "posY" : 270,
+            "color" : -1,
+            "alignment" : ""
+        }
+			
+    },
+    
+    "other":
+    {
+        "":
+        {
+            "posX" : 90,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center",
+            "file" : "texts/splashes.txt"
+        },
+        
+        "background":
+        {
+            "image" : "dbz:background.jpg",
+            "animate" : false,
+            "blur" : false,
+            "gradient" : true
+        }
+    }
+}
