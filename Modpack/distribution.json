@@ -721,7 +721,7 @@
       "description": "DBC Future | Official HavenCore Network Server Partner",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/DBC%20Future-1.7.10/pack.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "144.217.35.37:25587",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
