@@ -2,7 +2,7 @@
   "$schema": "file:///C:/Users/user-pc/Documents/GitHub/Nebula/Modpack/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "DBC Future (1.7.10)",
+    "name": "DBC Future",
     "description": "DBC Future | Official HavenCore Network Server Partner",
     "address": "144.217.35.37:25587",
     "discord": {

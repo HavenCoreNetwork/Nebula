@@ -2,7 +2,7 @@
   "$schema": "file:///C:/Users/user/Documents/GitHub/HeliosFiles/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "DBC Fusions (1.7.10)",
+    "name": "DBC Fusions",
     "description": "DBC Fusions | Official HavenCore Network Server",
     "address": "51.161.76.173:25650",
     "discord": {
