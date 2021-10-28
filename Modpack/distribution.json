@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "AlphaReborn-1.7.10",
-      "name": "DBC Alpha Reborn (1.7.10)",
+      "name": "DBC Alpha Reborn",
       "description": "DBC Alpha Reborn | Official HavenCore Network Server",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/AlphaReborn-1.7.10/AR.png",
       "version": "1.0.0",
@@ -363,7 +363,7 @@
     },
     {
       "id": "Colossus-1.7.10",
-      "name": "DBC Colossus (1.7.10)",
+      "name": "DBC Colossus",
       "description": "DBC Colossus | Official HavenCore Network Server",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/Colossus-1.7.10/Colossuspng.png",
       "version": "1.0.0",
@@ -717,7 +717,7 @@
     },
     {
       "id": "DBC Future-1.7.10",
-      "name": "DBC Future (1.7.10)",
+      "name": "DBC Future",
       "description": "DBC Future | Official HavenCore Network Server Partner",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/DBC%20Future-1.7.10/pack.png",
       "version": "1.0.0",
@@ -22395,7 +22395,7 @@
     },
     {
       "id": "Divinity-1.7.10",
-      "name": "Dragon Block Divinity (1.7.10)",
+      "name": "Dragon Block Divinity",
       "description": "DBC Divinity | Official HavenCore Network Server Partner",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/Divinity-1.7.10/Divinity_Logo.png",
       "version": "1.0.0",
@@ -23305,7 +23305,7 @@
     },
     {
       "id": "Fusions-1.7.10",
-      "name": "DBC Fusions (1.7.10)",
+      "name": "DBC Fusions",
       "description": "DBC Fusions | Official HavenCore Network Server",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/Fusions-1.7.10/pack.png",
       "version": "1.0.0",
