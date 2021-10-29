@@ -23309,7 +23309,7 @@
       "description": "DBC Fusions | Official HavenCore Network Server",
       "icon": "https://github.com/HavenCoreNetwork/Nebula/raw/master/Modpack/servers/Fusions-1.7.10/pack.png",
       "version": "1.0.0",
-      "address": "51.161.76.173:25650",
+      "address": "51.222.134.62:25650",
       "minecraftVersion": "1.7.10",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
