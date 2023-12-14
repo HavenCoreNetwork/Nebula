@@ -1,26 +1,16 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
+  "rss": "https://media.rss.com/havencore/feed.xml",
   "servers": [
     {
       "id": "fusions-1.7.10",
       "name": "DBC Fusions || Official HavenCore Server",
-      "description": "fusions Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+      "description": "DBC Fusions is a unique server featuring Custom Character Creation, Custom Forms, Character Slots, Custom Skills and more along with many Custom HD GUIs for each!",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.7.10",
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {

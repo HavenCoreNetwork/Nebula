@@ -3,15 +3,10 @@
   "meta": {
     "version": "1.0.0",
     "name": "DBC Fusions || Official HavenCore Server",
-    "description": "fusions Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
+    "description": "DBC Fusions is a unique server featuring Custom Character Creation, Custom Forms, Character Slots, Custom Skills and more along with many Custom HD GUIs for each!",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
     "address": "localhost:25565",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-    },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false
   },
   "forge": {
