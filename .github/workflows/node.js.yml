@@ -22,18 +22,31 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
+    - run: echo $JAVA_HOME\bin\javaw.exe
     - name: Setup Java JDK
       uses: actions/setup-java@v4.0.0
       with:
         java-version: 8
         distribution: temurin
-        
-      
+    
     - name: Install Dependencies
       run: 
-        npm install
-        echo $JAVA_HOME
-
+        npm ci
+        
+    - name: Create .env with Github Secrets and run script
+      run: |
+        touch .env
+          echo JAVA_EXECUTABLE=$JAVA_HOME\bin\javaw.exe >> .env
+          echo ROOT=${GITHUB_WORKSPACE} >> .env
+          echo BASE_URL=https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/HCmaster/LauncherModpacks/ >> .env
+          echo HELIOS_DATA_FOLDER="C:\Users\user\AppData\Roaming\HavenCore Network Launcher" >> .env
+          npm run start -- generate distro distribution
+      env:
+        JAVA_EXECUTABLE: ${{ secrets.JAVA_EXECUTABLE }}
+        ROOT: ${{ secrets.ROOT }}
+        BASE_URL: ${{ secrets.BASE_URL }}
+        HELIOS_DATA_FOLDER:  ${{ secrets.HELIOS_DATA_FOLDER }}
+        
 #    - name: Build and Generate Distribution
 #      run: npm run start -- generate distro distribution
 #
