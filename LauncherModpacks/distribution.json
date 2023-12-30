@@ -378,6 +378,16 @@
           }
         },
         {
+          "id": "generated.forgemod:HavenCoreFusions:1.0.1@jar",
+          "name": "Dragon Block Fusions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 130189190,
+            "url": "https://raw.githubusercontent.com/HavenCoreNetwork/Nebula/HCmaster/LauncherModpacks/servers/fusions-1.7.10/forgemods/required/OBF-FusionsClient%2012-25-23v2.jar",
+            "MD5": "426f1ab7243464ec2c13741830039eef"
+          }
+        },
+        {
           "id": "generated.forgemod:RealisticTorches:1.5.5@jar",
           "name": "Realistic Torches",
           "type": "ForgeMod",
